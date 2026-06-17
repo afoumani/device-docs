@@ -1,0 +1,13 @@
+{
+  "title": "Device Documentation",
+  "documents": [
+    {
+      "title": "Overview",
+      "path": "docs/index.md"
+    },
+    {
+      "title": "RuuviTag BLE Advertising Format",
+      "path": "docs/ble/ruuvitag.md"
+    }
+  ]
+}

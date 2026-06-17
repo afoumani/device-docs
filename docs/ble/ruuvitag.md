@@ -25,8 +25,3 @@ Example:
 |          17 | Movement Counter     | Movement counter               |
 |       18-19 | Measurement Sequence | Measurement sequence number    |
 |       20-25 | MAC Address          | Device MAC address             |
-
-Commit message:
-
-```text
-Add RuuviTag BLE documentation
